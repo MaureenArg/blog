@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Turismo en el Caribe de Costa Rica</title>
+    <link>https://academic-demo.netlify.app/post/</link>
+      <atom:link href="https://academic-demo.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://academic-demo.netlify.app/post/</link>
+    </image>
+    
+    <item>
+      <title>Catarata Río Blanco</title>
+      <link>https://academic-demo.netlify.app/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;información-general&#34;&gt;Información general&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;¿Cuándo?  cualquier día con previa coordinación (84059220). Cuando el clima este favorable. Idealmente iniciar la caminata antes de las 9 am.&lt;/li&gt;
+&lt;li&gt;¿Cuánto se dura? son 10 km en total, se dura aproximadamente 6 horas.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;y-después&#34;&gt;¿Y después?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 Hay una casona con agua, electricidad, fogón y servicios sanitarios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;qué-llevar&#34;&gt;¿Qué llevar?&lt;/h2&gt;
+&lt;p&gt;Recuerde sí o sí se va mojar cruzando el río en varias ocasiones. Se caminará sobre un sendero boscoso y usualmente embarrialado. En partes el camino es por piedras resbalozas y no es raro que llueva por lo que se recomienda llevar zapatos y ropa cómoda así como ropa extra!.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kéköldi</title>
+      <link>https://academic-demo.netlify.app/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>https://academic-demo.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Territorio indígena&lt;/h1&gt;
+&lt;p&gt;El Territorio Indígena de Kéköldi es una de las comunidades indígenas costarricenses y una de las cuatro del pueblo bribri. Se creó en 1977 y tiene unos 210 habitantes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;div id=&#34;&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;/h1&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;https://academic-demo.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Catarata río Elia</title>
+      <link>https://academic-demo.netlify.app/post/writing-technical-content/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Bella vista, Guápiles&lt;/p&gt;
+&lt;h2 id=&#34;información-general&#34;&gt;Información general&lt;/h2&gt;
+&lt;p&gt;El lugar donde comienza el sendero es en el tanque de agua que abastece la comunidad aledaña, aquí el sendero comienza a bajar un poco hasta llegar al primero de los 2 ríos.&lt;/p&gt;
+&lt;p&gt;La caída de agua de la catarata es de aproximadamente 100 metros. 
+Dificultad: media-alta&lt;/p&gt;
+&lt;h2 id=&#34;qué-llevar&#34;&gt;¿Qué llevar?&lt;/h2&gt;
+&lt;p&gt;Ropa cómoda de secado rápido, tenis de trail, jacket impermeable, repelente, vestido de baño, bloqueador, paño, snacks, par de botellas de hidratante y excelente actitud.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Catarata Las Cortinas</title>
+      <link>https://academic-demo.netlify.app/post/jupyter/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/post/jupyter/</guid>
+      <description>&lt;h2 id=&#34;información-general&#34;&gt;Información general&lt;/h2&gt;
+&lt;p&gt;Catarata con una caída de agua de aproximadamente 125 m. Se puede bajar por el acantilado a la poza usando cuerdas y arnés. En caso de requerir equipo para bajar, el dueño de la finca se lo proporcionará.&lt;/p&gt;
+&lt;h2 id=&#34;cómo-llegar&#34;&gt;¿Cómo llegar?&lt;/h2&gt;
+&lt;p&gt;Desde la escuela de Bonilla, recomendable para &lt;strong&gt;autos sencillos o bajos&lt;/strong&gt;. En este caso se caminarán de 6 a 7 horas hasta el pie de la catarata (ida y vuelta, 18km aprox); o bien desde la casa abandonada, recomendable para &lt;strong&gt;carros altos, preferiblemente 4x4&lt;/strong&gt;. En este caso se caminarán 4 o 5 horas hasta el pie de la catarata (ida y vuelta, aprox 10km).&lt;/p&gt;
+&lt;h2 id=&#34;duración&#34;&gt;Duración&lt;/h2&gt;
+&lt;p&gt;Iniciando desde la Escuela de Bonilla se tarda aproximadamente &lt;strong&gt;7 horas&lt;/strong&gt;.
+Desde la casa abandonada se tarda aproximadamente &lt;strong&gt;5 horas&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
