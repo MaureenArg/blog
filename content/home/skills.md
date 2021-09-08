@@ -16,18 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
-  icon: 
-  icon_pack: 
-  name: 
+- description: 100%
+  icon: hiking
+  icon_pack: fas
+  name: Caminar
+- description: 80%
+  icon: swimmer
+  icon_pack: fas
+  name: Nadar
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Análisis de datos
+- description: 40%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Fotografía
+- description: 80%
+  icon: water
+  icon_pack: fas
+  name: Agua
+- description: 80%
+  icon: map-marker-alt
+  icon_pack: fas
+  name: SIG
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
