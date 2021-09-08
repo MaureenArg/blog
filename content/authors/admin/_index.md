@@ -41,7 +41,7 @@ superuser: true
 title: Sitios por visitar en el Caribe de Costa Rica
 ---
 
-En este blog se presentan sitios del **caribe de Costa Rica poco conocidos pero que valen la pena visitar y explorar debido a su increíble belleza y autenticidad. 
+En este blog se presentan sitios del **caribe de Costa Rica** poco conocidos pero que valen la pena visitar y explorar debido a su increíble belleza y autenticidad. 
 
 Este blog puede ser de utilidad tanto para turistas nacionales como extranjeros que amen la naturaleza, principalmente el bosque, el agua, y que amen caminar!
 
@@ -49,6 +49,6 @@ Los sitios presentados son en su mayoría de díficil acceso, por lo que es nece
 
 ## **Sobre la autora**
 
-La autora de este blog se llama Maureen Arguedas, es de San José, vive en Guápiles. Ama explorar nuevos lugares, estar en contacto con la naturaleza, caminar, nadar y hacer yoga. 
+La autora de este blog se llama **Maureen Arguedas**, es de San José, vive en Guápiles. Ama explorar nuevos lugares, estar en contacto con la naturaleza, caminar, nadar y hacer yoga. 
 
 
